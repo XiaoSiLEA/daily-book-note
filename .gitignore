@@ -1,0 +1,12 @@
+# 数据文件 - 保留 history.json（用于每日去重）
+data/run.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 临时文件
+*.tmp
+.DS_Store

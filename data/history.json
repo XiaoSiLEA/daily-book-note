@@ -1,0 +1,21 @@
+{
+  "used_books": [
+    {
+      "id": "douban_36457094",
+      "title": "明亮的夜晚",
+      "author": "[韩]崔恩荣",
+      "date": "2026-09-27"
+    }
+  ],
+  "daily_notes": [
+    {
+      "date": "2026-09-27 21:26:23",
+      "book_id": "douban_36457094",
+      "book_title": "明亮的夜晚",
+      "note_title": "读完后劲太大了…",
+      "note_dir": "C:\\Users\\26364\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ab8de6036bc458a122813a5\\daily-book-note-cloud\\output\\book-20260927-明亮的夜晚",
+      "slug": "book-20260927-明亮的夜晚",
+      "tags": "书单推荐,读书分享,明亮的夜晚,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    }
+  ]
+}
