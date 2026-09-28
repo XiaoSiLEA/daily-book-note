@@ -5,6 +5,12 @@
       "title": "明亮的夜晚",
       "author": "[韩]崔恩荣",
       "date": "2026-09-27"
+    },
+    {
+      "id": "douban_38370177",
+      "title": "秦二世必须死",
+      "author": "马伯庸",
+      "date": "2026-09-28"
     }
   ],
   "daily_notes": [
@@ -16,6 +22,15 @@
       "note_dir": "C:\\Users\\26364\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ab8de6036bc458a122813a5\\daily-book-note-cloud\\output\\book-20260927-明亮的夜晚",
       "slug": "book-20260927-明亮的夜晚",
       "tags": "书单推荐,读书分享,明亮的夜晚,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    },
+    {
+      "date": "2026-09-28 16:06:58",
+      "book_id": "douban_38370177",
+      "book_title": "秦二世必须死",
+      "note_title": "《秦二世必须死》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20260928-秦二世必须死",
+      "slug": "book-20260928-秦二世必须死",
+      "tags": "书单推荐,读书分享,秦二世必须死,我的私人书单,书籍推荐,读书,小说推荐,小说"
     }
   ]
 }
