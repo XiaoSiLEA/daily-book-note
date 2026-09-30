@@ -17,6 +17,12 @@
       "title": "非暴力沟通（修订版）",
       "author": "[美] 马歇尔·卢森堡",
       "date": "2026-09-29"
+    },
+    {
+      "id": "douban_38438331",
+      "title": "中国式家庭",
+      "author": "陈海贤",
+      "date": "2026-09-30"
     }
   ],
   "daily_notes": [
@@ -46,6 +52,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20260929-非暴力沟通修订版",
       "slug": "book-20260929-非暴力沟通修订版",
       "tags": "书单推荐,读书分享,非暴力沟通（修订,我的私人书单,书籍推荐,读书,心理学"
+    },
+    {
+      "date": "2026-09-30 15:50:55",
+      "book_id": "douban_38438331",
+      "book_title": "中国式家庭",
+      "note_title": "《中国式家庭》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20260930-中国式家庭",
+      "slug": "book-20260930-中国式家庭",
+      "tags": "书单推荐,读书分享,中国式家庭,我的私人书单,书籍推荐,读书,心理学"
     }
   ]
 }
