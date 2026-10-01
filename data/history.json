@@ -23,6 +23,12 @@
       "title": "中国式家庭",
       "author": "陈海贤",
       "date": "2026-09-30"
+    },
+    {
+      "id": "douban_35546622",
+      "title": "置身事内",
+      "author": "兰小欢",
+      "date": "2026-10-01"
     }
   ],
   "daily_notes": [
@@ -61,6 +67,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20260930-中国式家庭",
       "slug": "book-20260930-中国式家庭",
       "tags": "书单推荐,读书分享,中国式家庭,我的私人书单,书籍推荐,读书,心理学"
+    },
+    {
+      "date": "2026-10-01 16:11:17",
+      "book_id": "douban_35546622",
+      "book_title": "置身事内",
+      "note_title": "读完这本书我沉默了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261001-置身事内",
+      "slug": "book-20261001-置身事内",
+      "tags": "书单推荐,读书分享,置身事内,我的私人书单,书籍推荐,读书,社会"
     }
   ]
 }
