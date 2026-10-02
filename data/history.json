@@ -29,6 +29,12 @@
       "title": "置身事内",
       "author": "兰小欢",
       "date": "2026-10-01"
+    },
+    {
+      "id": "douban_30359030",
+      "title": "醉步男",
+      "author": "[日] 小林泰三",
+      "date": "2026-10-02"
     }
   ],
   "daily_notes": [
@@ -76,6 +82,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261001-置身事内",
       "slug": "book-20261001-置身事内",
       "tags": "书单推荐,读书分享,置身事内,我的私人书单,书籍推荐,读书,社会"
+    },
+    {
+      "date": "2026-10-02 15:51:24",
+      "book_id": "douban_30359030",
+      "book_title": "醉步男",
+      "note_title": "这本书真的值得读吗",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261002-醉步男",
+      "slug": "book-20261002-醉步男",
+      "tags": "书单推荐,读书分享,醉步男,我的私人书单,书籍推荐,读书,科幻小说,科幻"
     }
   ]
 }
