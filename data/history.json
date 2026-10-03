@@ -35,6 +35,12 @@
       "title": "醉步男",
       "author": "[日] 小林泰三",
       "date": "2026-10-02"
+    },
+    {
+      "id": "douban_25935941",
+      "title": "天朝的崩溃",
+      "author": "茅海建",
+      "date": "2026-10-03"
     }
   ],
   "daily_notes": [
@@ -91,6 +97,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261002-醉步男",
       "slug": "book-20261002-醉步男",
       "tags": "书单推荐,读书分享,醉步男,我的私人书单,书籍推荐,读书,科幻小说,科幻"
+    },
+    {
+      "date": "2026-10-03 15:28:40",
+      "book_id": "douban_25935941",
+      "book_title": "天朝的崩溃",
+      "note_title": "翻到凌晨3点的神作",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261003-天朝的崩溃",
+      "slug": "book-20261003-天朝的崩溃",
+      "tags": "书单推荐,读书分享,天朝的崩溃,我的私人书单,书籍推荐,读书,历史书单,历史"
     }
   ]
 }
