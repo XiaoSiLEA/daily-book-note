@@ -47,6 +47,12 @@
       "title": "银河帝国：基地七部曲",
       "author": "[美] 艾萨克·阿西莫夫",
       "date": "2026-10-04"
+    },
+    {
+      "id": "douban_26304954",
+      "title": "存在主义心理治疗",
+      "author": "[美] 欧文·亚隆",
+      "date": "2026-10-05"
     }
   ],
   "daily_notes": [
@@ -121,6 +127,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261004-银河帝国基地七部曲",
       "slug": "book-20261004-银河帝国基地七部曲",
       "tags": "书单推荐,读书分享,银河帝国：基地七,我的私人书单,书籍推荐,读书,科幻小说,科幻"
+    },
+    {
+      "date": "2026-10-05 16:08:55",
+      "book_id": "douban_26304954",
+      "book_title": "存在主义心理治疗",
+      "note_title": "读完这本书我沉默了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261005-存在主义心理治疗",
+      "slug": "book-20261005-存在主义心理治疗",
+      "tags": "书单推荐,读书分享,存在主义心理治疗,我的私人书单,书籍推荐,读书,心理学"
     }
   ]
 }
