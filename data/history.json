@@ -53,6 +53,12 @@
       "title": "存在主义心理治疗",
       "author": "[美] 欧文·亚隆",
       "date": "2026-10-05"
+    },
+    {
+      "id": "douban_38415613",
+      "title": "世界小史",
+      "author": "[英] 恩斯特·贡布里希",
+      "date": "2026-10-06"
     }
   ],
   "daily_notes": [
@@ -136,6 +142,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261005-存在主义心理治疗",
       "slug": "book-20261005-存在主义心理治疗",
       "tags": "书单推荐,读书分享,存在主义心理治疗,我的私人书单,书籍推荐,读书,心理学"
+    },
+    {
+      "date": "2026-10-06 16:28:10",
+      "book_id": "douban_38415613",
+      "book_title": "世界小史",
+      "note_title": "想推荐给所有人的书",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261006-世界小史",
+      "slug": "book-20261006-世界小史",
+      "tags": "书单推荐,读书分享,世界小史,我的私人书单,书籍推荐,读书,历史书单,历史"
     }
   ]
 }
