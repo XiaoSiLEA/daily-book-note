@@ -65,6 +65,12 @@
       "title": "镭之光",
       "author": "[美] 达娃·索贝尔",
       "date": "2026-10-07"
+    },
+    {
+      "id": "douban_37350860",
+      "title": "海鸥才不管那么多",
+      "author": "[德]莱亚·布卢门塔尔",
+      "date": "2026-10-08"
     }
   ],
   "daily_notes": [
@@ -166,6 +172,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261007-镭之光",
       "slug": "book-20261007-镭之光",
       "tags": "书单推荐,读书分享,镭之光,我的私人书单,书籍推荐,读书,传记"
+    },
+    {
+      "date": "2026-10-08 16:19:13",
+      "book_id": "douban_37350860",
+      "book_title": "海鸥才不管那么多",
+      "note_title": "《海鸥才不管那…》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261008-海鸥才不管那么多",
+      "slug": "book-20261008-海鸥才不管那么多",
+      "tags": "书单推荐,读书分享,海鸥才不管那么多,我的私人书单,书籍推荐,读书,心理学"
     }
   ]
 }
