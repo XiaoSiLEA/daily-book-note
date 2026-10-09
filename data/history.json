@@ -71,6 +71,12 @@
       "title": "海鸥才不管那么多",
       "author": "[德]莱亚·布卢门塔尔",
       "date": "2026-10-08"
+    },
+    {
+      "id": "douban_38408003",
+      "title": "洞观微物",
+      "author": "（美）苏珊·贝尔诺夫斯基",
+      "date": "2026-10-09"
     }
   ],
   "daily_notes": [
@@ -181,6 +187,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261008-海鸥才不管那么多",
       "slug": "book-20261008-海鸥才不管那么多",
       "tags": "书单推荐,读书分享,海鸥才不管那么多,我的私人书单,书籍推荐,读书,心理学"
+    },
+    {
+      "date": "2026-10-09 16:21:43",
+      "book_id": "douban_38408003",
+      "book_title": "洞观微物",
+      "note_title": "《洞观微物》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261009-洞观微物",
+      "slug": "book-20261009-洞观微物",
+      "tags": "书单推荐,读书分享,洞观微物,我的私人书单,书籍推荐,读书,传记"
     }
   ]
 }
