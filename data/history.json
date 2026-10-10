@@ -77,6 +77,12 @@
       "title": "洞观微物",
       "author": "（美）苏珊·贝尔诺夫斯基",
       "date": "2026-10-09"
+    },
+    {
+      "id": "douban_26980487",
+      "title": "悉达多",
+      "author": "[德] 赫尔曼·黑塞",
+      "date": "2026-10-10"
     }
   ],
   "daily_notes": [
@@ -196,6 +202,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261009-洞观微物",
       "slug": "book-20261009-洞观微物",
       "tags": "书单推荐,读书分享,洞观微物,我的私人书单,书籍推荐,读书,传记"
+    },
+    {
+      "date": "2026-10-10 16:00:11",
+      "book_id": "douban_26980487",
+      "book_title": "悉达多",
+      "note_title": "熬夜看完《悉达多》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261010-悉达多",
+      "slug": "book-20261010-悉达多",
+      "tags": "书单推荐,读书分享,悉达多,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
