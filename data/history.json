@@ -89,6 +89,12 @@
       "title": "认知的不正义",
       "author": "[英] 米兰达·弗里克",
       "date": "2026-10-11"
+    },
+    {
+      "id": "douban_38503894",
+      "title": "德里达传：一个事件，或许",
+      "author": "[澳] 彼得·萨尔蒙",
+      "date": "2026-10-12"
     }
   ],
   "daily_notes": [
@@ -226,6 +232,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261011-认知的不正义",
       "slug": "book-20261011-认知的不正义",
       "tags": "书单推荐,读书分享,认知的不正义,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-10-12 16:27:35",
+      "book_id": "douban_38503894",
+      "book_title": "德里达传：一个事件，或许",
+      "note_title": "读完后劲太大了…",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261012-德里达传一个事件或许",
+      "slug": "book-20261012-德里达传一个事件或许",
+      "tags": "书单推荐,读书分享,德里达传：一个事,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
