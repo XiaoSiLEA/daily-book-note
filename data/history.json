@@ -95,6 +95,12 @@
       "title": "德里达传：一个事件，或许",
       "author": "[澳] 彼得·萨尔蒙",
       "date": "2026-10-12"
+    },
+    {
+      "id": "douban_38487618",
+      "title": "透明人",
+      "author": "[苏]伊利亚·伊里夫、[苏]叶夫根尼·彼得罗夫",
+      "date": "2026-10-13"
     }
   ],
   "daily_notes": [
@@ -241,6 +247,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261012-德里达传一个事件或许",
       "slug": "book-20261012-德里达传一个事件或许",
       "tags": "书单推荐,读书分享,德里达传：一个事,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-10-13 16:51:16",
+      "book_id": "douban_38487618",
+      "book_title": "透明人",
+      "note_title": "翻到凌晨3点的神作",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261013-透明人",
+      "slug": "book-20261013-透明人",
+      "tags": "书单推荐,读书分享,透明人,我的私人书单,书籍推荐,读书,文学"
     }
   ]
 }
