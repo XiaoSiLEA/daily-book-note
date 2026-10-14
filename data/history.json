@@ -101,6 +101,12 @@
       "title": "透明人",
       "author": "[苏]伊利亚·伊里夫、[苏]叶夫根尼·彼得罗夫",
       "date": "2026-10-13"
+    },
+    {
+      "id": "douban_25862578",
+      "title": "解忧杂货店",
+      "author": "[日] 东野圭吾",
+      "date": "2026-10-14"
     }
   ],
   "daily_notes": [
@@ -256,6 +262,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261013-透明人",
       "slug": "book-20261013-透明人",
       "tags": "书单推荐,读书分享,透明人,我的私人书单,书籍推荐,读书,文学"
+    },
+    {
+      "date": "2026-10-14 15:01:12",
+      "book_id": "douban_25862578",
+      "book_title": "解忧杂货店",
+      "note_title": "《解忧杂货店》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261014-解忧杂货店",
+      "slug": "book-20261014-解忧杂货店",
+      "tags": "书单推荐,读书分享,解忧杂货店,我的私人书单,书籍推荐,读书,小说推荐,小说"
     }
   ]
 }
