@@ -107,6 +107,12 @@
       "title": "解忧杂货店",
       "author": "[日] 东野圭吾",
       "date": "2026-10-14"
+    },
+    {
+      "id": "douban_25897884",
+      "title": "13 67",
+      "author": "陳浩基",
+      "date": "2026-10-15"
     }
   ],
   "daily_notes": [
@@ -271,6 +277,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261014-解忧杂货店",
       "slug": "book-20261014-解忧杂货店",
       "tags": "书单推荐,读书分享,解忧杂货店,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    },
+    {
+      "date": "2026-10-15 14:52:34",
+      "book_id": "douban_25897884",
+      "book_title": "13 67",
+      "note_title": "《13 67》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261015-1367",
+      "slug": "book-20261015-1367",
+      "tags": "书单推荐,读书分享,13 67,我的私人书单,书籍推荐,读书,推理小说,推理"
     }
   ]
 }
