@@ -113,6 +113,12 @@
       "title": "13 67",
       "author": "陳浩基",
       "date": "2026-10-15"
+    },
+    {
+      "id": "douban_36096304",
+      "title": "翦商",
+      "author": "李硕",
+      "date": "2026-10-16"
     }
   ],
   "daily_notes": [
@@ -286,6 +292,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261015-1367",
       "slug": "book-20261015-1367",
       "tags": "书单推荐,读书分享,13 67,我的私人书单,书籍推荐,读书,推理小说,推理"
+    },
+    {
+      "date": "2026-10-16 14:39:48",
+      "book_id": "douban_36096304",
+      "book_title": "翦商",
+      "note_title": "谁懂啊，这本太上头",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261016-翦商",
+      "slug": "book-20261016-翦商",
+      "tags": "书单推荐,读书分享,翦商,我的私人书单,书籍推荐,读书,历史书单,历史"
     }
   ]
 }
