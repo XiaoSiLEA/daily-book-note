@@ -125,6 +125,12 @@
       "title": "魏玛十五年",
       "author": "马国川",
       "date": "2026-10-17"
+    },
+    {
+      "id": "douban_34985248",
+      "title": "罗杰疑案",
+      "author": "[英] 阿加莎·克里斯蒂",
+      "date": "2026-10-18"
     }
   ],
   "daily_notes": [
@@ -316,6 +322,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261017-魏玛十五年",
       "slug": "book-20261017-魏玛十五年",
       "tags": "书单推荐,读书分享,魏玛十五年,我的私人书单,书籍推荐,读书,历史书单,历史"
+    },
+    {
+      "date": "2026-10-18 14:53:26",
+      "book_id": "douban_34985248",
+      "book_title": "罗杰疑案",
+      "note_title": "谁懂啊，这本太上头",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261018-罗杰疑案",
+      "slug": "book-20261018-罗杰疑案",
+      "tags": "书单推荐,读书分享,罗杰疑案,我的私人书单,书籍推荐,读书,推理小说,推理"
     }
   ]
 }
