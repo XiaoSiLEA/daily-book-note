@@ -131,6 +131,12 @@
       "title": "罗杰疑案",
       "author": "[英] 阿加莎·克里斯蒂",
       "date": "2026-10-18"
+    },
+    {
+      "id": "douban_38426855",
+      "title": "女人与海",
+      "author": "[美] 格伦·斯托特",
+      "date": "2026-10-19"
     }
   ],
   "daily_notes": [
@@ -331,6 +337,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261018-罗杰疑案",
       "slug": "book-20261018-罗杰疑案",
       "tags": "书单推荐,读书分享,罗杰疑案,我的私人书单,书籍推荐,读书,推理小说,推理"
+    },
+    {
+      "date": "2026-10-19 15:13:30",
+      "book_id": "douban_38426855",
+      "book_title": "女人与海",
+      "note_title": "想推荐给所有人的书",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261019-女人与海",
+      "slug": "book-20261019-女人与海",
+      "tags": "书单推荐,读书分享,女人与海,我的私人书单,书籍推荐,读书,传记"
     }
   ]
 }
