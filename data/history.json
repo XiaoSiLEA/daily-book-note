@@ -137,6 +137,12 @@
       "title": "女人与海",
       "author": "[美] 格伦·斯托特",
       "date": "2026-10-19"
+    },
+    {
+      "id": "douban_38531492",
+      "title": "作为世界象征的游戏",
+      "author": "[德]欧根·芬克",
+      "date": "2026-10-20"
     }
   ],
   "daily_notes": [
@@ -346,6 +352,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261019-女人与海",
       "slug": "book-20261019-女人与海",
       "tags": "书单推荐,读书分享,女人与海,我的私人书单,书籍推荐,读书,传记"
+    },
+    {
+      "date": "2026-10-20 15:01:57",
+      "book_id": "douban_38531492",
+      "book_title": "作为世界象征的游戏",
+      "note_title": "谁懂啊，这本太上头",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261020-作为世界象征的游戏",
+      "slug": "book-20261020-作为世界象征的游戏",
+      "tags": "书单推荐,读书分享,作为世界象征的游,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
