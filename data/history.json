@@ -143,6 +143,12 @@
       "title": "作为世界象征的游戏",
       "author": "[德]欧根·芬克",
       "date": "2026-10-20"
+    },
+    {
+      "id": "douban_35313227",
+      "title": "刘擎西方现代思想讲义",
+      "author": "刘擎",
+      "date": "2026-10-21"
     }
   ],
   "daily_notes": [
@@ -361,6 +367,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261020-作为世界象征的游戏",
       "slug": "book-20261020-作为世界象征的游戏",
       "tags": "书单推荐,读书分享,作为世界象征的游,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-10-21 14:55:38",
+      "book_id": "douban_35313227",
+      "book_title": "刘擎西方现代思想讲义",
+      "note_title": "《刘擎西方现代…》太绝了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261021-刘擎西方现代思想讲义",
+      "slug": "book-20261021-刘擎西方现代思想讲义",
+      "tags": "书单推荐,读书分享,刘擎西方现代思想,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
