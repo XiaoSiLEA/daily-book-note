@@ -149,6 +149,12 @@
       "title": "刘擎西方现代思想讲义",
       "author": "刘擎",
       "date": "2026-10-21"
+    },
+    {
+      "id": "douban_37833272",
+      "title": "咸的玩笑",
+      "author": "刘震云",
+      "date": "2026-10-22"
     }
   ],
   "daily_notes": [
@@ -376,6 +382,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261021-刘擎西方现代思想讲义",
       "slug": "book-20261021-刘擎西方现代思想讲义",
       "tags": "书单推荐,读书分享,刘擎西方现代思想,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-10-22 14:59:26",
+      "book_id": "douban_37833272",
+      "book_title": "咸的玩笑",
+      "note_title": "《咸的玩笑》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261022-咸的玩笑",
+      "slug": "book-20261022-咸的玩笑",
+      "tags": "书单推荐,读书分享,咸的玩笑,我的私人书单,书籍推荐,读书,小说推荐,小说"
     }
   ]
 }
