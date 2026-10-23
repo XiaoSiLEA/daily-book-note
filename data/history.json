@@ -155,6 +155,12 @@
       "title": "咸的玩笑",
       "author": "刘震云",
       "date": "2026-10-22"
+    },
+    {
+      "id": "douban_37663710",
+      "title": "基层中国的运行逻辑",
+      "author": "聂辉华",
+      "date": "2026-10-23"
     }
   ],
   "daily_notes": [
@@ -391,6 +397,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261022-咸的玩笑",
       "slug": "book-20261022-咸的玩笑",
       "tags": "书单推荐,读书分享,咸的玩笑,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    },
+    {
+      "date": "2026-10-23 14:52:15",
+      "book_id": "douban_37663710",
+      "book_title": "基层中国的运行逻辑",
+      "note_title": "《基层中国的运…》太绝了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261023-基层中国的运行逻辑",
+      "slug": "book-20261023-基层中国的运行逻辑",
+      "tags": "书单推荐,读书分享,基层中国的运行逻,我的私人书单,书籍推荐,读书,社会"
     }
   ]
 }
