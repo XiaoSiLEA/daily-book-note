@@ -161,6 +161,12 @@
       "title": "基层中国的运行逻辑",
       "author": "聂辉华",
       "date": "2026-10-23"
+    },
+    {
+      "id": "douban_36700758",
+      "title": "早安，怪物",
+      "author": "[加] 凯瑟琳·吉尔迪纳",
+      "date": "2026-10-24"
     }
   ],
   "daily_notes": [
@@ -406,6 +412,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261023-基层中国的运行逻辑",
       "slug": "book-20261023-基层中国的运行逻辑",
       "tags": "书单推荐,读书分享,基层中国的运行逻,我的私人书单,书籍推荐,读书,社会"
+    },
+    {
+      "date": "2026-10-24 14:48:21",
+      "book_id": "douban_36700758",
+      "book_title": "早安，怪物",
+      "note_title": "读完这本书我沉默了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261024-早安怪物",
+      "slug": "book-20261024-早安怪物",
+      "tags": "书单推荐,读书分享,早安，怪物,我的私人书单,书籍推荐,读书,心理学"
     }
   ]
 }
