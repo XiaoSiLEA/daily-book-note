@@ -167,6 +167,12 @@
       "title": "早安，怪物",
       "author": "[加] 凯瑟琳·吉尔迪纳",
       "date": "2026-10-24"
+    },
+    {
+      "id": "douban_34672178",
+      "title": "你一生的故事",
+      "author": "[美] 特德·姜",
+      "date": "2026-10-25"
     }
   ],
   "daily_notes": [
@@ -421,6 +427,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261024-早安怪物",
       "slug": "book-20261024-早安怪物",
       "tags": "书单推荐,读书分享,早安，怪物,我的私人书单,书籍推荐,读书,心理学"
+    },
+    {
+      "date": "2026-10-25 15:12:22",
+      "book_id": "douban_34672178",
+      "book_title": "你一生的故事",
+      "note_title": "熬夜看完《你一生的故事》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261025-你一生的故事",
+      "slug": "book-20261025-你一生的故事",
+      "tags": "书单推荐,读书分享,你一生的故事,我的私人书单,书籍推荐,读书,科幻小说,科幻"
     }
   ]
 }
