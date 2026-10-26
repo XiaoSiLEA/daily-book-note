@@ -173,6 +173,12 @@
       "title": "你一生的故事",
       "author": "[美] 特德·姜",
       "date": "2026-10-25"
+    },
+    {
+      "id": "douban_35217665",
+      "title": "红的自传·丈夫之美",
+      "author": "[加拿大] 安妮·卡森",
+      "date": "2026-10-26"
     }
   ],
   "daily_notes": [
@@ -436,6 +442,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261025-你一生的故事",
       "slug": "book-20261025-你一生的故事",
       "tags": "书单推荐,读书分享,你一生的故事,我的私人书单,书籍推荐,读书,科幻小说,科幻"
+    },
+    {
+      "date": "2026-10-26 15:20:24",
+      "book_id": "douban_35217665",
+      "book_title": "红的自传·丈夫之美",
+      "note_title": "熬夜看完《红的自传·丈…》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261026-红的自传丈夫之美",
+      "slug": "book-20261026-红的自传丈夫之美",
+      "tags": "书单推荐,读书分享,红的自传·丈夫之,我的私人书单,书籍推荐,读书,文学"
     }
   ]
 }
