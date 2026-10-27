@@ -179,6 +179,12 @@
       "title": "红的自传·丈夫之美",
       "author": "[加拿大] 安妮·卡森",
       "date": "2026-10-26"
+    },
+    {
+      "id": "douban_26877752",
+      "title": "恶意",
+      "author": "[日] 东野圭吾",
+      "date": "2026-10-27"
     }
   ],
   "daily_notes": [
@@ -451,6 +457,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261026-红的自传丈夫之美",
       "slug": "book-20261026-红的自传丈夫之美",
       "tags": "书单推荐,读书分享,红的自传·丈夫之,我的私人书单,书籍推荐,读书,文学"
+    },
+    {
+      "date": "2026-10-27 15:12:08",
+      "book_id": "douban_26877752",
+      "book_title": "恶意",
+      "note_title": "《恶意》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261027-恶意",
+      "slug": "book-20261027-恶意",
+      "tags": "书单推荐,读书分享,恶意,我的私人书单,书籍推荐,读书,小说推荐,小说"
     }
   ]
 }
