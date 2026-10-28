@@ -185,6 +185,12 @@
       "title": "恶意",
       "author": "[日] 东野圭吾",
       "date": "2026-10-27"
+    },
+    {
+      "id": "douban_37374594",
+      "title": "鹅之书",
+      "author": "[美] 李翊云",
+      "date": "2026-10-28"
     }
   ],
   "daily_notes": [
@@ -466,6 +472,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261027-恶意",
       "slug": "book-20261027-恶意",
       "tags": "书单推荐,读书分享,恶意,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    },
+    {
+      "date": "2026-10-28 15:50:35",
+      "book_id": "douban_37374594",
+      "book_title": "鹅之书",
+      "note_title": "想推荐给所有人的书",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261028-鹅之书",
+      "slug": "book-20261028-鹅之书",
+      "tags": "书单推荐,读书分享,鹅之书,我的私人书单,书籍推荐,读书,成长书单,成长"
     }
   ]
 }
