@@ -191,6 +191,12 @@
       "title": "鹅之书",
       "author": "[美] 李翊云",
       "date": "2026-10-28"
+    },
+    {
+      "id": "douban_38197722",
+      "title": "什么是政治哲学",
+      "author": "[美] 查尔斯·拉莫尔",
+      "date": "2026-10-29"
     }
   ],
   "daily_notes": [
@@ -481,6 +487,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261028-鹅之书",
       "slug": "book-20261028-鹅之书",
       "tags": "书单推荐,读书分享,鹅之书,我的私人书单,书籍推荐,读书,成长书单,成长"
+    },
+    {
+      "date": "2026-10-29 15:56:26",
+      "book_id": "douban_38197722",
+      "book_title": "什么是政治哲学",
+      "note_title": "熬夜看完《什么是政治哲…》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261029-什么是政治哲学",
+      "slug": "book-20261029-什么是政治哲学",
+      "tags": "书单推荐,读书分享,什么是政治哲学,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
