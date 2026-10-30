@@ -197,6 +197,12 @@
       "title": "什么是政治哲学",
       "author": "[美] 查尔斯·拉莫尔",
       "date": "2026-10-29"
+    },
+    {
+      "id": "douban_38067357",
+      "title": "西塔",
+      "author": "宋念申",
+      "date": "2026-10-30"
     }
   ],
   "daily_notes": [
@@ -496,6 +502,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261029-什么是政治哲学",
       "slug": "book-20261029-什么是政治哲学",
       "tags": "书单推荐,读书分享,什么是政治哲学,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-10-30 15:59:00",
+      "book_id": "douban_38067357",
+      "book_title": "西塔",
+      "note_title": "今年读过最狠的一本",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261030-西塔",
+      "slug": "book-20261030-西塔",
+      "tags": "书单推荐,读书分享,西塔,我的私人书单,书籍推荐,读书,历史书单,历史"
     }
   ]
 }
