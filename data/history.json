@@ -203,6 +203,12 @@
       "title": "西塔",
       "author": "宋念申",
       "date": "2026-10-30"
+    },
+    {
+      "id": "douban_38498568",
+      "title": "夺回时间",
+      "author": "[瑞典] 马丁·黑格隆德",
+      "date": "2026-10-31"
     }
   ],
   "daily_notes": [
@@ -511,6 +517,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261030-西塔",
       "slug": "book-20261030-西塔",
       "tags": "书单推荐,读书分享,西塔,我的私人书单,书籍推荐,读书,历史书单,历史"
+    },
+    {
+      "date": "2026-10-31 15:54:26",
+      "book_id": "douban_38498568",
+      "book_title": "夺回时间",
+      "note_title": "熬夜看完《夺回时间》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261031-夺回时间",
+      "slug": "book-20261031-夺回时间",
+      "tags": "书单推荐,读书分享,夺回时间,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
