@@ -209,6 +209,12 @@
       "title": "夺回时间",
       "author": "[瑞典] 马丁·黑格隆德",
       "date": "2026-10-31"
+    },
+    {
+      "id": "douban_10758290",
+      "title": "东晋门阀政治",
+      "author": "田余庆",
+      "date": "2026-11-01"
     }
   ],
   "daily_notes": [
@@ -526,6 +532,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261031-夺回时间",
       "slug": "book-20261031-夺回时间",
       "tags": "书单推荐,读书分享,夺回时间,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-11-01 16:36:29",
+      "book_id": "douban_10758290",
+      "book_title": "东晋门阀政治",
+      "note_title": "《东晋门阀政治》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261101-东晋门阀政治",
+      "slug": "book-20261101-东晋门阀政治",
+      "tags": "书单推荐,读书分享,东晋门阀政治,我的私人书单,书籍推荐,读书,历史书单,历史"
     }
   ]
 }
