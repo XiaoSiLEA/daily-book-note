@@ -215,6 +215,12 @@
       "title": "东晋门阀政治",
       "author": "田余庆",
       "date": "2026-11-01"
+    },
+    {
+      "id": "douban_26362836",
+      "title": "献给阿尔吉侬的花束",
+      "author": "[美] 丹尼尔·凯斯",
+      "date": "2026-11-02"
     }
   ],
   "daily_notes": [
@@ -541,6 +547,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261101-东晋门阀政治",
       "slug": "book-20261101-东晋门阀政治",
       "tags": "书单推荐,读书分享,东晋门阀政治,我的私人书单,书籍推荐,读书,历史书单,历史"
+    },
+    {
+      "date": "2026-11-02 16:45:46",
+      "book_id": "douban_26362836",
+      "book_title": "献给阿尔吉侬的花束",
+      "note_title": "这本书真的值得读吗",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261102-献给阿尔吉侬的花束",
+      "slug": "book-20261102-献给阿尔吉侬的花束",
+      "tags": "书单推荐,读书分享,献给阿尔吉侬的花,我的私人书单,书籍推荐,读书,科幻小说,科幻"
     }
   ]
 }
