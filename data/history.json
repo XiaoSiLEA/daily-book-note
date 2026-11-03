@@ -221,6 +221,12 @@
       "title": "献给阿尔吉侬的花束",
       "author": "[美] 丹尼尔·凯斯",
       "date": "2026-11-02"
+    },
+    {
+      "id": "douban_38392174",
+      "title": "抄写员巴托比",
+      "author": "[美] 赫尔曼·梅尔维尔",
+      "date": "2026-11-03"
     }
   ],
   "daily_notes": [
@@ -556,6 +562,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261102-献给阿尔吉侬的花束",
       "slug": "book-20261102-献给阿尔吉侬的花束",
       "tags": "书单推荐,读书分享,献给阿尔吉侬的花,我的私人书单,书籍推荐,读书,科幻小说,科幻"
+    },
+    {
+      "date": "2026-11-03 16:56:58",
+      "book_id": "douban_38392174",
+      "book_title": "抄写员巴托比",
+      "note_title": "熬夜看完《抄写员巴托比》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261103-抄写员巴托比",
+      "slug": "book-20261103-抄写员巴托比",
+      "tags": "书单推荐,读书分享,抄写员巴托比,我的私人书单,书籍推荐,读书,小说推荐,小说"
     }
   ]
 }
