@@ -227,6 +227,12 @@
       "title": "抄写员巴托比",
       "author": "[美] 赫尔曼·梅尔维尔",
       "date": "2026-11-03"
+    },
+    {
+      "id": "douban_36727756",
+      "title": "照亮破碎之心",
+      "author": "[美]卡尔·戴瑟罗思",
+      "date": "2026-11-04"
     }
   ],
   "daily_notes": [
@@ -571,6 +577,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261103-抄写员巴托比",
       "slug": "book-20261103-抄写员巴托比",
       "tags": "书单推荐,读书分享,抄写员巴托比,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    },
+    {
+      "date": "2026-11-04 16:29:41",
+      "book_id": "douban_36727756",
+      "book_title": "照亮破碎之心",
+      "note_title": "想推荐给所有人的书",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261104-照亮破碎之心",
+      "slug": "book-20261104-照亮破碎之心",
+      "tags": "书单推荐,读书分享,照亮破碎之心,我的私人书单,书籍推荐,读书,心理学"
     }
   ]
 }
