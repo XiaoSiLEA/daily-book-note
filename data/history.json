@@ -239,6 +239,12 @@
       "title": "津巴多普通心理学 (第8版)",
       "author": "[美] 菲利普·津巴多、[美] 罗伯特·约翰逊、[美] 薇薇安·麦卡恩",
       "date": "2026-11-05"
+    },
+    {
+      "id": "douban_38357884",
+      "title": "哈萨比斯：谷歌AI之脑",
+      "author": "塞巴斯蒂安·马拉比",
+      "date": "2026-11-06"
     }
   ],
   "daily_notes": [
@@ -601,6 +607,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261105-津巴多普通心理学第8",
       "slug": "book-20261105-津巴多普通心理学第8",
       "tags": "书单推荐,读书分享,津巴多普通心理学,我的私人书单,书籍推荐,读书,心理学"
+    },
+    {
+      "date": "2026-11-06 16:52:50",
+      "book_id": "douban_38357884",
+      "book_title": "哈萨比斯：谷歌AI之脑",
+      "note_title": "熬夜看完《哈萨比斯：谷…》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261106-哈萨比斯谷歌AI之脑",
+      "slug": "book-20261106-哈萨比斯谷歌AI之脑",
+      "tags": "书单推荐,读书分享,哈萨比斯：谷歌A,我的私人书单,书籍推荐,读书,传记"
     }
   ]
 }
