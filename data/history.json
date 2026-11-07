@@ -245,6 +245,12 @@
       "title": "哈萨比斯：谷歌AI之脑",
       "author": "塞巴斯蒂安·马拉比",
       "date": "2026-11-06"
+    },
+    {
+      "id": "douban_35193035",
+      "title": "认知觉醒",
+      "author": "周岭",
+      "date": "2026-11-07"
     }
   ],
   "daily_notes": [
@@ -616,6 +622,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261106-哈萨比斯谷歌AI之脑",
       "slug": "book-20261106-哈萨比斯谷歌AI之脑",
       "tags": "书单推荐,读书分享,哈萨比斯：谷歌A,我的私人书单,书籍推荐,读书,传记"
+    },
+    {
+      "date": "2026-11-07 16:11:22",
+      "book_id": "douban_35193035",
+      "book_title": "认知觉醒",
+      "note_title": "《认知觉醒》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261107-认知觉醒",
+      "slug": "book-20261107-认知觉醒",
+      "tags": "书单推荐,读书分享,认知觉醒,我的私人书单,书籍推荐,读书,成长书单,成长"
     }
   ]
 }
