@@ -251,6 +251,12 @@
       "title": "认知觉醒",
       "author": "周岭",
       "date": "2026-11-07"
+    },
+    {
+      "id": "douban_38552885",
+      "title": "深渊大饭店",
+      "author": "[英] 斯图尔特·杰弗里斯",
+      "date": "2026-11-08"
     }
   ],
   "daily_notes": [
@@ -631,6 +637,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261107-认知觉醒",
       "slug": "book-20261107-认知觉醒",
       "tags": "书单推荐,读书分享,认知觉醒,我的私人书单,书籍推荐,读书,成长书单,成长"
+    },
+    {
+      "date": "2026-11-08 16:28:41",
+      "book_id": "douban_38552885",
+      "book_title": "深渊大饭店",
+      "note_title": "熬夜看完《深渊大饭店》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261108-深渊大饭店",
+      "slug": "book-20261108-深渊大饭店",
+      "tags": "书单推荐,读书分享,深渊大饭店,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
