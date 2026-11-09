@@ -257,6 +257,12 @@
       "title": "深渊大饭店",
       "author": "[英] 斯图尔特·杰弗里斯",
       "date": "2026-11-08"
+    },
+    {
+      "id": "douban_35481512",
+      "title": "也许你该找个人聊聊",
+      "author": "[美]洛莉·戈特利布",
+      "date": "2026-11-09"
     }
   ],
   "daily_notes": [
@@ -646,6 +652,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261108-深渊大饭店",
       "slug": "book-20261108-深渊大饭店",
       "tags": "书单推荐,读书分享,深渊大饭店,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-11-09 16:58:21",
+      "book_id": "douban_35481512",
+      "book_title": "也许你该找个人聊聊",
+      "note_title": "《也许你该找个…》太绝了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261109-也许你该找个人聊聊",
+      "slug": "book-20261109-也许你该找个人聊聊",
+      "tags": "书单推荐,读书分享,也许你该找个人聊,我的私人书单,书籍推荐,读书,心理学"
     }
   ]
 }
