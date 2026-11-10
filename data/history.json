@@ -263,6 +263,12 @@
       "title": "也许你该找个人聊聊",
       "author": "[美]洛莉·戈特利布",
       "date": "2026-11-09"
+    },
+    {
+      "id": "douban_38901091",
+      "title": "我的风暴，我的庇护所",
+      "author": "[印度]阿兰达蒂·洛伊",
+      "date": "2026-11-10"
     }
   ],
   "daily_notes": [
@@ -661,6 +667,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261109-也许你该找个人聊聊",
       "slug": "book-20261109-也许你该找个人聊聊",
       "tags": "书单推荐,读书分享,也许你该找个人聊,我的私人书单,书籍推荐,读书,心理学"
+    },
+    {
+      "date": "2026-11-10 17:06:40",
+      "book_id": "douban_38901091",
+      "book_title": "我的风暴，我的庇护所",
+      "note_title": "为什么没人推《我的风暴，我…》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261110-我的风暴我的庇护所",
+      "slug": "book-20261110-我的风暴我的庇护所",
+      "tags": "书单推荐,读书分享,我的风暴，我的庇,我的私人书单,书籍推荐,读书,文学"
     }
   ]
 }
