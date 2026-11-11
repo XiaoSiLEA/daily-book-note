@@ -269,6 +269,12 @@
       "title": "我的风暴，我的庇护所",
       "author": "[印度]阿兰达蒂·洛伊",
       "date": "2026-11-10"
+    },
+    {
+      "id": "douban_38456350",
+      "title": "我在职高当班主任",
+      "author": "李亮",
+      "date": "2026-11-11"
     }
   ],
   "daily_notes": [
@@ -676,6 +682,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261110-我的风暴我的庇护所",
       "slug": "book-20261110-我的风暴我的庇护所",
       "tags": "书单推荐,读书分享,我的风暴，我的庇,我的私人书单,书籍推荐,读书,文学"
+    },
+    {
+      "date": "2026-11-11 16:45:41",
+      "book_id": "douban_38456350",
+      "book_title": "我在职高当班主任",
+      "note_title": "谁懂啊，这本太上头",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261111-我在职高当班主任",
+      "slug": "book-20261111-我在职高当班主任",
+      "tags": "书单推荐,读书分享,我在职高当班主任,我的私人书单,书籍推荐,读书,社会"
     }
   ]
 }
