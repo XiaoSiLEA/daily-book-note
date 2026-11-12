@@ -275,6 +275,12 @@
       "title": "我在职高当班主任",
       "author": "李亮",
       "date": "2026-11-11"
+    },
+    {
+      "id": "douban_2567698",
+      "title": "三体",
+      "author": "刘慈欣",
+      "date": "2026-11-12"
     }
   ],
   "daily_notes": [
@@ -691,6 +697,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261111-我在职高当班主任",
       "slug": "book-20261111-我在职高当班主任",
       "tags": "书单推荐,读书分享,我在职高当班主任,我的私人书单,书籍推荐,读书,社会"
+    },
+    {
+      "date": "2026-11-12 17:08:11",
+      "book_id": "douban_2567698",
+      "book_title": "三体",
+      "note_title": "为什么没人推《三体》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261112-三体",
+      "slug": "book-20261112-三体",
+      "tags": "书单推荐,读书分享,三体,我的私人书单,书籍推荐,读书,科幻小说,科幻"
     }
   ]
 }
