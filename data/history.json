@@ -281,6 +281,12 @@
       "title": "三体",
       "author": "刘慈欣",
       "date": "2026-11-12"
+    },
+    {
+      "id": "douban_2328458",
+      "title": "社会性动物",
+      "author": "埃利奥特·阿伦森Elliot Aronson",
+      "date": "2026-11-13"
     }
   ],
   "daily_notes": [
@@ -706,6 +712,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261112-三体",
       "slug": "book-20261112-三体",
       "tags": "书单推荐,读书分享,三体,我的私人书单,书籍推荐,读书,科幻小说,科幻"
+    },
+    {
+      "date": "2026-11-13 16:59:37",
+      "book_id": "douban_2328458",
+      "book_title": "社会性动物",
+      "note_title": "想推荐给所有人的书",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261113-社会性动物",
+      "slug": "book-20261113-社会性动物",
+      "tags": "书单推荐,读书分享,社会性动物,我的私人书单,书籍推荐,读书,心理学"
     }
   ]
 }
