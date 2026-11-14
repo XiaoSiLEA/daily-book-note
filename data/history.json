@@ -287,6 +287,12 @@
       "title": "社会性动物",
       "author": "埃利奥特·阿伦森Elliot Aronson",
       "date": "2026-11-13"
+    },
+    {
+      "id": "douban_25887924",
+      "title": "卡拉马佐夫兄弟",
+      "author": "[俄]陀思妥耶夫斯基",
+      "date": "2026-11-14"
     }
   ],
   "daily_notes": [
@@ -721,6 +727,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261113-社会性动物",
       "slug": "book-20261113-社会性动物",
       "tags": "书单推荐,读书分享,社会性动物,我的私人书单,书籍推荐,读书,心理学"
+    },
+    {
+      "date": "2026-11-14 16:28:53",
+      "book_id": "douban_25887924",
+      "book_title": "卡拉马佐夫兄弟",
+      "note_title": "《卡拉马佐夫兄…》太绝了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261114-卡拉马佐夫兄弟",
+      "slug": "book-20261114-卡拉马佐夫兄弟",
+      "tags": "书单推荐,读书分享,卡拉马佐夫兄弟,我的私人书单,书籍推荐,读书,文学"
     }
   ]
 }
