@@ -293,6 +293,12 @@
       "title": "卡拉马佐夫兄弟",
       "author": "[俄]陀思妥耶夫斯基",
       "date": "2026-11-14"
+    },
+    {
+      "id": "douban_35494160",
+      "title": "挽救计划",
+      "author": "[美] 安迪·威尔",
+      "date": "2026-11-15"
     }
   ],
   "daily_notes": [
@@ -736,6 +742,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261114-卡拉马佐夫兄弟",
       "slug": "book-20261114-卡拉马佐夫兄弟",
       "tags": "书单推荐,读书分享,卡拉马佐夫兄弟,我的私人书单,书籍推荐,读书,文学"
+    },
+    {
+      "date": "2026-11-15 16:44:30",
+      "book_id": "douban_35494160",
+      "book_title": "挽救计划",
+      "note_title": "熬夜看完《挽救计划》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261115-挽救计划",
+      "slug": "book-20261115-挽救计划",
+      "tags": "书单推荐,读书分享,挽救计划,我的私人书单,书籍推荐,读书,科幻小说,科幻"
     }
   ]
 }
