@@ -299,6 +299,12 @@
       "title": "挽救计划",
       "author": "[美] 安迪·威尔",
       "date": "2026-11-15"
+    },
+    {
+      "id": "douban_35031587",
+      "title": "绝叫",
+      "author": "[日] 叶真中显",
+      "date": "2026-11-16"
     }
   ],
   "daily_notes": [
@@ -751,6 +757,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261115-挽救计划",
       "slug": "book-20261115-挽救计划",
       "tags": "书单推荐,读书分享,挽救计划,我的私人书单,书籍推荐,读书,科幻小说,科幻"
+    },
+    {
+      "date": "2026-11-16 16:55:22",
+      "book_id": "douban_35031587",
+      "book_title": "绝叫",
+      "note_title": "读完这本书我沉默了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261116-绝叫",
+      "slug": "book-20261116-绝叫",
+      "tags": "书单推荐,读书分享,绝叫,我的私人书单,书籍推荐,读书,小说推荐,小说"
     }
   ]
 }
