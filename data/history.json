@@ -305,6 +305,12 @@
       "title": "绝叫",
       "author": "[日] 叶真中显",
       "date": "2026-11-16"
+    },
+    {
+      "id": "douban_38465261",
+      "title": "哲学如何让人获得快乐",
+      "author": "[法] 弗雷德里克·勒努瓦",
+      "date": "2026-11-17"
     }
   ],
   "daily_notes": [
@@ -766,6 +772,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261116-绝叫",
       "slug": "book-20261116-绝叫",
       "tags": "书单推荐,读书分享,绝叫,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    },
+    {
+      "date": "2026-11-17 18:01:55",
+      "book_id": "douban_38465261",
+      "book_title": "哲学如何让人获得快乐",
+      "note_title": "读完后劲太大了…",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261117-哲学如何让人获得快乐",
+      "slug": "book-20261117-哲学如何让人获得快乐",
+      "tags": "书单推荐,读书分享,哲学如何让人获得,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
