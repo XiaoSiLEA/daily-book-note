@@ -311,6 +311,12 @@
       "title": "哲学如何让人获得快乐",
       "author": "[法] 弗雷德里克·勒努瓦",
       "date": "2026-11-17"
+    },
+    {
+      "id": "douban_35430425",
+      "title": "流俗地",
+      "author": "[马来西亚] 黎紫书",
+      "date": "2026-11-18"
     }
   ],
   "daily_notes": [
@@ -781,6 +787,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261117-哲学如何让人获得快乐",
       "slug": "book-20261117-哲学如何让人获得快乐",
       "tags": "书单推荐,读书分享,哲学如何让人获得,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-11-18 17:39:05",
+      "book_id": "douban_35430425",
+      "book_title": "流俗地",
+      "note_title": "读完这本书我沉默了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261118-流俗地",
+      "slug": "book-20261118-流俗地",
+      "tags": "书单推荐,读书分享,流俗地,我的私人书单,书籍推荐,读书,小说推荐,小说"
     }
   ]
 }
