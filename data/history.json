@@ -317,6 +317,12 @@
       "title": "流俗地",
       "author": "[马来西亚] 黎紫书",
       "date": "2026-11-18"
+    },
+    {
+      "id": "douban_1041482",
+      "title": "万历十五年",
+      "author": "[美] 黄仁宇",
+      "date": "2026-11-19"
     }
   ],
   "daily_notes": [
@@ -796,6 +802,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261118-流俗地",
       "slug": "book-20261118-流俗地",
       "tags": "书单推荐,读书分享,流俗地,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    },
+    {
+      "date": "2026-11-19 17:45:48",
+      "book_id": "douban_1041482",
+      "book_title": "万历十五年",
+      "note_title": "《万历十五年》太绝了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261119-万历十五年",
+      "slug": "book-20261119-万历十五年",
+      "tags": "书单推荐,读书分享,万历十五年,我的私人书单,书籍推荐,读书,历史书单,历史"
     }
   ]
 }
