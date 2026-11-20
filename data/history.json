@@ -323,6 +323,12 @@
       "title": "万历十五年",
       "author": "[美] 黄仁宇",
       "date": "2026-11-19"
+    },
+    {
+      "id": "douban_38431581",
+      "title": "真实与虚幻",
+      "author": "[美] 厄休拉·勒古恩",
+      "date": "2026-11-20"
     }
   ],
   "daily_notes": [
@@ -811,6 +817,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261119-万历十五年",
       "slug": "book-20261119-万历十五年",
       "tags": "书单推荐,读书分享,万历十五年,我的私人书单,书籍推荐,读书,历史书单,历史"
+    },
+    {
+      "date": "2026-11-20 17:34:11",
+      "book_id": "douban_38431581",
+      "book_title": "真实与虚幻",
+      "note_title": "翻到凌晨3点的神作",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261120-真实与虚幻",
+      "slug": "book-20261120-真实与虚幻",
+      "tags": "书单推荐,读书分享,真实与虚幻,我的私人书单,书籍推荐,读书,科幻小说,科幻"
     }
   ]
 }
