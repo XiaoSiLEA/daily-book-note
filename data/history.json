@@ -329,6 +329,12 @@
       "title": "真实与虚幻",
       "author": "[美] 厄休拉·勒古恩",
       "date": "2026-11-20"
+    },
+    {
+      "id": "douban_38593473",
+      "title": "分拣人生",
+      "author": "牛童",
+      "date": "2026-11-21"
     }
   ],
   "daily_notes": [
@@ -826,6 +832,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261120-真实与虚幻",
       "slug": "book-20261120-真实与虚幻",
       "tags": "书单推荐,读书分享,真实与虚幻,我的私人书单,书籍推荐,读书,科幻小说,科幻"
+    },
+    {
+      "date": "2026-11-21 17:06:03",
+      "book_id": "douban_38593473",
+      "book_title": "分拣人生",
+      "note_title": "这本书真的值得读吗",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261121-分拣人生",
+      "slug": "book-20261121-分拣人生",
+      "tags": "书单推荐,读书分享,分拣人生,我的私人书单,书籍推荐,读书,社会"
     }
   ]
 }
