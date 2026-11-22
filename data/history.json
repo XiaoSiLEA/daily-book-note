@@ -335,6 +335,12 @@
       "title": "分拣人生",
       "author": "牛童",
       "date": "2026-11-21"
+    },
+    {
+      "id": "douban_20424526",
+      "title": "邓小平时代",
+      "author": "[美] 傅高义",
+      "date": "2026-11-22"
     }
   ],
   "daily_notes": [
@@ -841,6 +847,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261121-分拣人生",
       "slug": "book-20261121-分拣人生",
       "tags": "书单推荐,读书分享,分拣人生,我的私人书单,书籍推荐,读书,社会"
+    },
+    {
+      "date": "2026-11-22 17:14:23",
+      "book_id": "douban_20424526",
+      "book_title": "邓小平时代",
+      "note_title": "翻到凌晨3点的神作",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261122-邓小平时代",
+      "slug": "book-20261122-邓小平时代",
+      "tags": "书单推荐,读书分享,邓小平时代,我的私人书单,书籍推荐,读书,传记"
     }
   ]
 }
