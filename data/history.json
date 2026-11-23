@@ -341,6 +341,12 @@
       "title": "邓小平时代",
       "author": "[美] 傅高义",
       "date": "2026-11-22"
+    },
+    {
+      "id": "douban_37935111",
+      "title": "逻辑与哲学（第十三版）",
+      "author": "[美] 阿兰·豪斯曼、[美] 弗兰克·博德曼、[美] 霍华德·卡哈尼",
+      "date": "2026-11-23"
     }
   ],
   "daily_notes": [
@@ -856,6 +862,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261122-邓小平时代",
       "slug": "book-20261122-邓小平时代",
       "tags": "书单推荐,读书分享,邓小平时代,我的私人书单,书籍推荐,读书,传记"
+    },
+    {
+      "date": "2026-11-23 18:11:03",
+      "book_id": "douban_37935111",
+      "book_title": "逻辑与哲学（第十三版）",
+      "note_title": "被这本书狠狠戳中",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261123-逻辑与哲学第十三版",
+      "slug": "book-20261123-逻辑与哲学第十三版",
+      "tags": "书单推荐,读书分享,逻辑与哲学（第十,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
