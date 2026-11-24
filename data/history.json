@@ -347,6 +347,12 @@
       "title": "逻辑与哲学（第十三版）",
       "author": "[美] 阿兰·豪斯曼、[美] 弗兰克·博德曼、[美] 霍华德·卡哈尼",
       "date": "2026-11-23"
+    },
+    {
+      "id": "douban_39027353",
+      "title": "被接住的人",
+      "author": "小鹏",
+      "date": "2026-11-24"
     }
   ],
   "daily_notes": [
@@ -871,6 +877,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261123-逻辑与哲学第十三版",
       "slug": "book-20261123-逻辑与哲学第十三版",
       "tags": "书单推荐,读书分享,逻辑与哲学（第十,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-11-24 19:56:16",
+      "book_id": "douban_39027353",
+      "book_title": "被接住的人",
+      "note_title": "翻到凌晨3点的神作",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261124-被接住的人",
+      "slug": "book-20261124-被接住的人",
+      "tags": "书单推荐,读书分享,被接住的人,我的私人书单,书籍推荐,读书,成长书单,成长"
     }
   ]
 }
