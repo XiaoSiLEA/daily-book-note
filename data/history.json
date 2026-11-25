@@ -353,6 +353,12 @@
       "title": "被接住的人",
       "author": "小鹏",
       "date": "2026-11-24"
+    },
+    {
+      "id": "douban_37339619",
+      "title": "桃花源没事儿",
+      "author": "马伯庸",
+      "date": "2026-11-25"
     }
   ],
   "daily_notes": [
@@ -886,6 +892,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261124-被接住的人",
       "slug": "book-20261124-被接住的人",
       "tags": "书单推荐,读书分享,被接住的人,我的私人书单,书籍推荐,读书,成长书单,成长"
+    },
+    {
+      "date": "2026-11-25 18:47:19",
+      "book_id": "douban_37339619",
+      "book_title": "桃花源没事儿",
+      "note_title": "为什么没人推《桃花源没事儿》",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261125-桃花源没事儿",
+      "slug": "book-20261125-桃花源没事儿",
+      "tags": "书单推荐,读书分享,桃花源没事儿,我的私人书单,书籍推荐,读书,小说推荐,小说"
     }
   ]
 }
