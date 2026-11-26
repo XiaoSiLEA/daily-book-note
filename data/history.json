@@ -359,6 +359,12 @@
       "title": "桃花源没事儿",
       "author": "马伯庸",
       "date": "2026-11-25"
+    },
+    {
+      "id": "douban_38612957",
+      "title": "留白",
+      "author": "程乐松",
+      "date": "2026-11-26"
     }
   ],
   "daily_notes": [
@@ -901,6 +907,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261125-桃花源没事儿",
       "slug": "book-20261125-桃花源没事儿",
       "tags": "书单推荐,读书分享,桃花源没事儿,我的私人书单,书籍推荐,读书,小说推荐,小说"
+    },
+    {
+      "date": "2026-11-26 18:21:21",
+      "book_id": "douban_38612957",
+      "book_title": "留白",
+      "note_title": "《留白》读完哭了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261126-留白",
+      "slug": "book-20261126-留白",
+      "tags": "书单推荐,读书分享,留白,我的私人书单,书籍推荐,读书,哲学"
     }
   ]
 }
