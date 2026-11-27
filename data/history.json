@@ -365,6 +365,12 @@
       "title": "留白",
       "author": "程乐松",
       "date": "2026-11-26"
+    },
+    {
+      "id": "douban_36794613",
+      "title": "康熙的红票",
+      "author": "孙立天",
+      "date": "2026-11-27"
     }
   ],
   "daily_notes": [
@@ -916,6 +922,15 @@
       "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261126-留白",
       "slug": "book-20261126-留白",
       "tags": "书单推荐,读书分享,留白,我的私人书单,书籍推荐,读书,哲学"
+    },
+    {
+      "date": "2026-11-27 18:26:58",
+      "book_id": "douban_36794613",
+      "book_title": "康熙的红票",
+      "note_title": "《康熙的红票》太绝了",
+      "note_dir": "/home/runner/work/daily-book-note/daily-book-note/output/book-20261127-康熙的红票",
+      "slug": "book-20261127-康熙的红票",
+      "tags": "书单推荐,读书分享,康熙的红票,我的私人书单,书籍推荐,读书,历史书单,历史"
     }
   ]
 }
